@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3d3542</color>
-    <color name="colorPrimaryDark">#3d3542</color>
+    <color name="colorPrimary">#ADE73170</color>
+    <color name="colorPrimaryDark">#ADE73170</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!-- Fade -->
+    <color name="fade1">#FFC107</color>
+    <color name="fade2">#FF9800</color>
+    <color name="fade3">#F17D76</color>
+    <color name="fade4">#F44336</color>
+    <color name="fade5">#E91E63</color>
+    <color name="fade6">#9C27B0</color>
+    <color name="fade7">#673AB7</color>
+    <color name="fade8">#3F51B5</color>
+    <color name="fade9">#2196F3</color>
 
 </resources>
